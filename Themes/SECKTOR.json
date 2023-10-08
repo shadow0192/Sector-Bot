@@ -1,0 +1,62 @@
+
+{
+    "_JSON_": true,
+    "AUTHOR": "SamPandey001",
+    "LANGUAGE": "English",
+    "LANGCODE": "en",
+    "STRINGS": {
+        "updater": {
+            "UPDATE": "Your bot is already on latest version Nii-Chan",
+            "NEW_UPDATE": "There is a new update available for the bot!\n\n*Changes:*\n",
+            "UPDATED_LOCAL": "Fresh Updates Installed!"
+        },
+        "global": {
+            "botName": " 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐍𝐞𝐳𝐮𝐤𝐨",
+
+            "body": "𝑊ℎ𝑎𝑡𝑠𝑎𝑝𝑝 𝐵𝑜𝑡",
+            "greet2" : "Hey Onii-Chan",
+            "pic1": "https://raw.githubusercontent.com/SecktorBot/Brandimages/main/Nezuko/nezuko-1st.jpg",
+            "pic2": "https://raw.githubusercontent.com/SecktorBot/Brandimages/main/Nezuko/2nd.jpg",
+            "pic3": "https://raw.githubusercontent.com/SecktorBot/Brandimages/main/Nezuko/3rd.jpg",
+            "pic4": "https://raw.githubusercontent.com/SecktorBot/Brandimages/main/Nezuko/4th.jpg",
+            "pic5": "https://raw.githubusercontent.com/SecktorBot/Brandimages/main/Nezuko/5th.jpg",
+            "pic6": "https://raw.githubusercontent.com/SecktorBot/Brandimages/main/Nezuko/6th.jpg",
+            "pic7": "https://raw.githubusercontent.com/SecktorBot/Brandimages/main/Nezuko/7th.jpg",
+            "pic8": "https://r4.wallpaperflare.com/wallpaper/342/463/583/anime-fairy-tail-erza-scarlet-wallpaper-d97068bdf11a8d8be667380f0091d65d.jpg",
+            "pic9": "https://r4.wallpaperflare.com/wallpaper/753/246/369/anime-aria-the-scarlet-ammo-hidan-no-aria-reki-aria-the-scarlet-ammo-wallpaper-b90028bd317a3ddbc697286f80d116ad.jpg",
+            "pic10": "https://r4.wallpaperflare.com/wallpaper/66/393/176/anime-aria-the-scarlet-ammo-reki-aria-the-scarlet-ammo-wallpaper-89c0b88d51bafd8b76f7786fd001e69d.jpg",
+            "pic11": "https://r4.wallpaperflare.com/wallpaper/66/393/176/anime-aria-the-scarlet-ammo-reki-aria-the-scarlet-ammo-wallpaper-89c0b88d51bafd8b76f7786fd001e69d.jpg",
+             "greet" : "Onii-Chan",
+           "dotbody" : "Yup.I am here.",
+            "emijii" : "🎍",
+            "promote": "A new worthy DEMON arrived",
+            "pmallow": "Hii,This is nezuko\n*A little sister of my Nii-Chan.*\nMy Brother is busy right now.\nKindly Leave your Message.\n\n_I will inform him about your message asap......_",
+            "pmblock": "❌ Blocked*\n\n You have been blocked for spamming.\n\n _ 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐍𝐞𝐳𝐮𝐤𝐨_",
+            "pmwarn": "✋Hii* \nPlease don't spam else I'll block you for spamming. You have ${checkPermit.times} warning(s).\n\n * 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐍𝐞𝐳𝐮𝐤𝐨*",
+            "permited": "Hii ${tname} Sir*\n\nNow You are permitted by my owner to pm now.\n\n 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐍𝐞𝐳𝐮𝐤𝐨", 
+            "revoked" : "Hii ${tname} Sir\n\nYour pm permit permission has been prevoked now.\n\n 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐍𝐞𝐳𝐮𝐤𝐨",
+            "demote": "You are not Worthy",
+            "antlink": "Link Detected.\n*Good Bye Worthless Demon*",
+            "session": "\n*This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and Deploy Branch and Bot will run for Always\n\n*𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐍𝐞𝐳𝐮𝐤𝐨*",
+            "mention": " Please mention any user Onii-Chan",
+            "title": "𝐍𝐞𝐳𝐮𝐤𝐨-𝐂𝐡𝐚𝐧",
+            "footer": "𝐊𝐚𝐦𝐚𝐝𝐨-𝐍𝐞𝐳𝐮𝐤𝐨",
+            "by": "Made by: CitelVoid",
+            "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
+            "success": "Success ✓",
+            "dot": "Oniii-Chan, Why don't you try .help",
+            "couple_male": "I'm sorry i didn't understand for so long",
+            "couple_female": "Put everything in your soulders",
+            "admin": "الأمر فقط لمشرفين⚠️!",
+            "botAdmin": "رقيني مشرف .❗",
+            "owner": "الأمر للمطور ⚠️",
+            "group": "الأمر للمجموعات فقط❗",
+            "private": "الأمر لمطوري فقط ⚠️",
+            "bot": "𝑻𝒉𝒊𝒔 𝒇𝒆𝒂𝒕𝒖𝒓𝒆 𝒊𝒏 𝒐𝒏𝒍𝒚 𝒇𝒐𝒓 𝒕𝒉𝒆 𝒃𝒐𝒕 𝒏𝒖𝒎𝒃𝒆𝒓⚠️",
+            "wait": "معالجة طلبك✅"
+        },
+        "error": {
+            "text": "Task Failed"
+        }
+    }
+  }
